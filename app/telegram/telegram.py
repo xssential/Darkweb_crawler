@@ -1,6 +1,6 @@
 import requests
-BOT_TOKEN = '8079638698:AAFzIsI5C1ikXLXbSpbCZYHlYOtQId-v0Os'
-CHAT_ID = '-1002178735706' # channel chat_id # '7730634302' (bot chat_id)
+BOT_TOKEN = 'bot_token'
+CHAT_ID = 'chat_id' # channel chat_id # '7730634302' (bot chat_id)
 URL = f'https://api.telegram.org/bot{BOT_TOKEN}/sendMessage'
 DOCUMENT_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/sendDocument'
 
